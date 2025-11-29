@@ -6,6 +6,8 @@ Calculadora de notas finales para docentes UTEC. Permite registrar evaluaciones 
 - Node.js 18+ (probado con 22)
 - npm
 
+
+
 ## Instalación
 ```bash
 npm install
@@ -29,6 +31,15 @@ npm start
 npm test
 ```
 Las pruebas cubren cálculo normal, ausencia de asistencia, acuerdos docentes, puntos extra manuales, pesos inválidos, casos borde y rutas API.
+
+
+## Resultados de calidad y análisis SonarQube
+
+### Calidad requerida
+![Calidad requerida](quality.png)
+
+### Resultado del alumno en SonarQube
+![Resultado SonarQube](sonnar.png)
 
 ## Uso rápido (frontend)
 1. Ingresa el código del estudiante.
