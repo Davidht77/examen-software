@@ -32,14 +32,13 @@ npm test
 ```
 Las pruebas cubren cálculo normal, ausencia de asistencia, acuerdos docentes, puntos extra manuales, pesos inválidos, casos borde y rutas API.
 
-
 ## Resultados de calidad y análisis SonarQube
 
-### Calidad requerida
-![Calidad requerida](quality.png)
+### Rquerido
+![Calidad requerida](sonnar.png)
 
 ### Resultado del alumno en SonarQube
-![Resultado SonarQube](sonnar.png)
+![Resultado SonarQube](quality.png)
 
 ## Uso rápido (frontend)
 1. Ingresa el código del estudiante.
